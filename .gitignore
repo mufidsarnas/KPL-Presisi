@@ -52,3 +52,11 @@ Mkfile.old
 dkms.conf
 
 .vs/
+bin/
+.suo
+.user
+.sln.docstates
+.csproj.user
+.exe
+node_modules/
+packages/

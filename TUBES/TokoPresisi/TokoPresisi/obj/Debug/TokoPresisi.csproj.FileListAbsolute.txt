@@ -5,3 +5,5 @@ D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\Week11\UTS\TokoPresisi\TokoPresis
 D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\Week11\UTS\TokoPresisi\TokoPresisi\bin\Debug\TokoPresisi.pdb
 D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\Week11\UTS\TokoPresisi\TokoPresisi\obj\Debug\TokoPresisi.exe
 D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\Week11\UTS\TokoPresisi\TokoPresisi\obj\Debug\TokoPresisi.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\KPL-Presisi\TUBES\TokoPresisi\TokoPresisi\obj\Debug\TokoPresisi.csproj.AssemblyReference.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\KPL-Presisi\TUBES\TokoPresisi\TokoPresisi\obj\Debug\TokoPresisi.csproj.CoreCompileInputs.cache

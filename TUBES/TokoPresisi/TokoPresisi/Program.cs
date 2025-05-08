@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using TokoPresisi.Models;
 using TokoPresisi.Services;
@@ -6,7 +6,7 @@ using TokoPresisi.Interfaces;
 
 namespace TokoPresisi
 {
-    class App
+    class Program
     {
         static void Main(string[] args)
         {

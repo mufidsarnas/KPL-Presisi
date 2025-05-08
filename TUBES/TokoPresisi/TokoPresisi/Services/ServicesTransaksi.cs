@@ -7,14 +7,14 @@ namespace TokoPresisi.Services
 {
     public class ServicesTransaksi : InterfacesTransaksi
     {
-        private readonly Dictionary<string, Action<Transaction>> _transactionHandlers;
+        private readonly Dictionary<string, Action<Transaksi>> _transactionHandlers;
 
         public ServicesTransaksi()
         {
-            _transactionHandlers = new Dictionary<string, Action<Transaction>>();
+            _transactionHandlers = new Dictionary<string, Action<Transaksi>>();
         }
 
-        public void RegisterTransactionHandler(string transactionType, Action<Transaction> handler)
+        public void RegisterTransactionHandler(string transactionType, Action<Transaksi> handler)
         {
             if (!_transactionHandlers.ContainsKey(transactionType))
             {
@@ -26,7 +26,7 @@ namespace TokoPresisi.Services
             }
         }
 
-        public void DisplayTransactions(List<Transaction> transactions)
+        public void DisplayTransactions(List<Transaksi> transactions)
         {
             foreach (var t in transactions)
             {

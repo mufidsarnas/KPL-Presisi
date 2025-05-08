@@ -43,9 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ModelProduct.cs" />
-    <Compile Include="App.cs" />
+    <Compile Include="Interfaces\InterfacesTopUp.cs" />
+    <Compile Include="Interfaces\InterfacesTransaksi.cs" />
+	  <Compile Include="Interfaces\InterfacesVoucher.cs" />
+	  <Compile Include="Models\Transaksi.cs" />
+	  <Compile Include="Models\User.cs" />
+	  <Compile Include="Models\Voucher.cs" />
+	  <Compile Include="Services\ServicesTopUp.cs" />
+	  <Compile Include="Services\ServicesTransaksi.cs" />
+	  <Compile Include="Services\ServicesVoucher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+	  <Compile Include="App.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

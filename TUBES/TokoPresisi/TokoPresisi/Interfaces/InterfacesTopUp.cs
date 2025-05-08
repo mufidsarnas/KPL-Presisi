@@ -1,5 +1,5 @@
 ﻿using System;
-using GameVoucherAppSOLID.Models;
+using TokoPresisi.Models;
 
 namespace TokoPresisi.Interfaces
 {

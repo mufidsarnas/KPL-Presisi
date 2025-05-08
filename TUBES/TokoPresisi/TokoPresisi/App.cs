@@ -20,10 +20,10 @@ namespace TokoPresisi
 
             var user = new User("user123", 50000);
 
-            var transactions = new List<Transaction>
+            var transaksi = new List<Transaksi>
             {
-                new Transaction { TransactionId = "T001", UserId = "user123", ItemName = "Voucher 1000 Coins", Amount = 10000, Date = DateTime.Now.AddDays(-2), TransactionType = "sale" },
-                new Transaction { TransactionId = "T002", UserId = "user123", ItemName = "Top Up", Amount = 50000, Date = DateTime.Now.AddDays(-1), TransactionType = "topup" }
+                new Transaksi { TransactionId = "T001", UserId = "user123", ItemName = "Voucher 1000 Coins", Amount = 10000, Date = DateTime.Now.AddDays(-2), TransactionType = "sale" },
+                new Transaksi { TransactionId = "T002", UserId = "user123", ItemName = "Top Up", Amount = 50000, Date = DateTime.Now.AddDays(-1), TransactionType = "topup" }
             };
 
             // Inisialisasi service dengan dependency injection sederhana
@@ -44,7 +44,7 @@ namespace TokoPresisi
 
             // Menampilkan riwayat transaksi
             Console.WriteLine("\n=== Riwayat Penjualan dan Top Up ===");
-            servicesTransaksi.DisplayTransactions(transactions);
+            servicesTransaksi.DisplayTransactions(transaksi);
 
             // Fitur top up saldo
             Console.WriteLine("\n=== Fitur Top Up Saldo ===");

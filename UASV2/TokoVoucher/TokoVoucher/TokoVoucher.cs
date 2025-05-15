@@ -186,18 +186,25 @@ namespace coba
             {
                 Console.Write("Nama Baru: ");
                 voucher.Name = Console.ReadLine();
+                Console.WriteLine("Voucher berhasil diupdate!");
             }
         },
         { "Harga", () =>
-            {
-                Console.Write("Harga Baru: ");
+            {try{Console.Write("Harga Baru: ");
                 voucher.Price = int.Parse(Console.ReadLine());
+                Console.WriteLine("Voucher berhasil diupdate!");
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Inputan harus berupa angka");
+                }
             }
         },
         { "Platform", () =>
             {
                 Console.Write("Platform Baru: ");
                 voucher.Platform = Console.ReadLine();
+                Console.WriteLine("Voucher berhasil diupdate!");
             }
         }
     };
@@ -214,7 +221,6 @@ namespace coba
             if (updateOptions.TryGetValue(pilihan, out Action updateAction))
             {
                 updateAction(); // Eksekusi aksi update
-                Console.WriteLine("Voucher berhasil diupdate!");
             }
             else
             {

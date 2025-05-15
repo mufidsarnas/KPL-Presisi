@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransaksiLibrary", "TransaksiLibrary\TransaksiLibrary.csproj", "{CCB0EAB4-F653-48ED-8867-DB917B046DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB0EAB4-F653-48ED-8867-DB917B046DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB0EAB4-F653-48ED-8867-DB917B046DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB0EAB4-F653-48ED-8867-DB917B046DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB0EAB4-F653-48ED-8867-DB917B046DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {113689FB-4AB8-488D-856B-69E44988A316}
+	EndGlobalSection
+EndGlobal

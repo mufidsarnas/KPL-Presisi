@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokoVoucher", "TokoVoucher\TokoVoucher.csproj", "{A2DE3D52-E26C-48E2-89E9-1771160ED8BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestToko", "TestToko\TestToko.csproj", "{5B214BA9-5B4C-4A1E-AD73-8DE2EFBF7082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2DE3D52-E26C-48E2-89E9-1771160ED8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DE3D52-E26C-48E2-89E9-1771160ED8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DE3D52-E26C-48E2-89E9-1771160ED8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DE3D52-E26C-48E2-89E9-1771160ED8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B214BA9-5B4C-4A1E-AD73-8DE2EFBF7082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B214BA9-5B4C-4A1E-AD73-8DE2EFBF7082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B214BA9-5B4C-4A1E-AD73-8DE2EFBF7082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B214BA9-5B4C-4A1E-AD73-8DE2EFBF7082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E1101DE-D1F4-4DFE-B4F5-37E87DBA3229}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV2\TransaksiLibrary\TransaksiLibrary\bin\Release\TransaksiLibrary.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV2\TransaksiLibrary\TransaksiLibrary\bin\Release\TransaksiLibrary.pdb
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV2\TransaksiLibrary\TransaksiLibrary\obj\Release\TransaksiLibrary.csproj.AssemblyReference.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV2\TransaksiLibrary\TransaksiLibrary\obj\Release\TransaksiLibrary.csproj.CoreCompileInputs.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV2\TransaksiLibrary\TransaksiLibrary\obj\Release\TransaksiLibrary.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV2\TransaksiLibrary\TransaksiLibrary\obj\Release\TransaksiLibrary.pdb

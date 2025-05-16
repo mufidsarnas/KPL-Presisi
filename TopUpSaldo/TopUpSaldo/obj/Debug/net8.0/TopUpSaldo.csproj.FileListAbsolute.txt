@@ -1,0 +1,14 @@
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\bin\Debug\net8.0\TopUpSaldo.exe
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\bin\Debug\net8.0\TopUpSaldo.deps.json
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\bin\Debug\net8.0\TopUpSaldo.runtimeconfig.json
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\bin\Debug\net8.0\TopUpSaldo.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\bin\Debug\net8.0\TopUpSaldo.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\obj\Debug\net8.0\TopUpSaldo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\obj\Debug\net8.0\TopUpSaldo.AssemblyInfoInputs.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\obj\Debug\net8.0\TopUpSaldo.AssemblyInfo.cs
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\obj\Debug\net8.0\TopUpSaldo.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\obj\Debug\net8.0\TopUpSaldo.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\obj\Debug\net8.0\refint\TopUpSaldo.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\obj\Debug\net8.0\TopUpSaldo.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\obj\Debug\net8.0\TopUpSaldo.genruntimeconfig.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\TopUpSaldo\TopUpSaldo\obj\Debug\net8.0\ref\TopUpSaldo.dll

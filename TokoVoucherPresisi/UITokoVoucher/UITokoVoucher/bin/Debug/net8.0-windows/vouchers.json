@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Steam Wallet $99",
+    "Price": 1500000,
+    "Platform": "Steam"
+  },
+  {
+    "Name": "Diamond 250",
+    "Price": 45000,
+    "Platform": "Mobile Legend"
+  },
+  {
+    "Name": "Fracture Case",
+    "Price": 20000,
+    "Platform": "CS 2"
+  },
+  {
+    "Name": "Shanghai Capsule",
+    "Price": 3000,
+    "Platform": "CS 2"
+  }
+]

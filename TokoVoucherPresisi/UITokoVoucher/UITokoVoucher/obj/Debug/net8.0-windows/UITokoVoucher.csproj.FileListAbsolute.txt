@@ -1,0 +1,301 @@
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.exe
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.deps.json
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.runtimeconfig.json
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.pdb
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.GenerateResource.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfoInputs.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfo.cs
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.CoreCompileInputs.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\refint\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.pdb
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.genruntimeconfig.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\ref\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormLogin.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Properties.Resources.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Registrasi.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormAdmin.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormPembeli.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.MenuSaldo.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UASV3\UASV3\TokoVoucher\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.RiwayatTransaksi.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.exe
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.deps.json
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.runtimeconfig.json
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.pdb
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormAdmin.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormLogin.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormPembeli.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.MenuSaldo.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Properties.Resources.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Registrasi.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.RiwayatTransaksi.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.GenerateResource.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfoInputs.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfo.cs
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.CoreCompileInputs.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\refint\UITokoVoucher.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.pdb
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.genruntimeconfig.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\ref\UITokoVoucher.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.pdb
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll.config
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.AssemblyReference.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVo.22B39776.Up2Date
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV4\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.exe
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.deps.json
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.runtimeconfig.json
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.pdb
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.pdb
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll.config
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormAdmin.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormLogin.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormPembeli.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.MenuSaldo.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Properties.Resources.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Registrasi.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.RiwayatTransaksi.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVo.22B39776.Up2Date
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\refint\UITokoVoucher.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.pdb
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\UITokoVoucherV6\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\ref\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.exe
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.deps.json
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.runtimeconfig.json
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll.config
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.AssemblyReference.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormAdmin.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormLogin.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormPembeli.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.MenuSaldo.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Properties.Resources.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Registrasi.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.RiwayatTransaksi.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.GenerateResource.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfoInputs.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfo.cs
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVo.22B39776.Up2Date
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\refint\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.genruntimeconfig.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV7\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\ref\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.exe
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.deps.json
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.runtimeconfig.json
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll.config
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.AssemblyReference.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormAdmin.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormLogin.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormPembeli.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.MenuSaldo.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Properties.Resources.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Registrasi.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.RiwayatTransaksi.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.GenerateResource.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfoInputs.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfo.cs
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVo.22B39776.Up2Date
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\refint\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.genruntimeconfig.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\ref\UITokoVoucher.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.exe
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.deps.json
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.runtimeconfig.json
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.pdb
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.pdb
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll.config
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.AssemblyReference.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormAdmin.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormLogin.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormPembeli.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.MenuSaldo.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Properties.Resources.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Registrasi.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.RiwayatTransaksi.resources
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.GenerateResource.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfoInputs.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfo.cs
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.CoreCompileInputs.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVo.22B39776.Up2Date
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\refint\UITokoVoucher.dll
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.pdb
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.genruntimeconfig.cache
+D:\Tugas\Semester 4\Konstruksi Perangkat Lunak\UASV9\UITokoVoucherV8\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\ref\UITokoVoucher.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.exe
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.deps.json
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.runtimeconfig.json
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.pdb
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.pdb
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll.config
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormAdmin.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormLogin.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormPembeli.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.MenuSaldo.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Properties.Resources.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Registrasi.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.RiwayatTransaksi.resources
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVo.22B39776.Up2Date
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\refint\UITokoVoucher.dll
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.pdb
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\UITokoVoucherV9\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\ref\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.exe
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.deps.json
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.runtimeconfig.json
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.pdb
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.pdb
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll.config
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.AssemblyReference.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormAdmin.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormLogin.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormPembeli.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.MenuSaldo.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Properties.Resources.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Registrasi.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.RiwayatTransaksi.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.GenerateResource.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfoInputs.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfo.cs
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.CoreCompileInputs.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVo.22B39776.Up2Date
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\refint\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.pdb
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.genruntimeconfig.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV10\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\ref\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.exe
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.deps.json
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.runtimeconfig.json
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.pdb
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.pdb
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll.config
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.AssemblyReference.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormAdmin.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormLogin.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormPembeli.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.MenuSaldo.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Properties.Resources.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Registrasi.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.RiwayatTransaksi.resources
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.GenerateResource.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfoInputs.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfo.cs
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.CoreCompileInputs.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVo.22B39776.Up2Date
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\refint\UITokoVoucher.dll
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.pdb
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.genruntimeconfig.cache
+C:\Users\savem\OneDrive\Documents\KampusTelkom\Semester4Empat\KonstruksiPL\UAS\UITokoVoucherV11\UITokoVoucherV10\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\ref\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.AssemblyReference.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormAdmin.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormLogin.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.FormPembeli.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.MenuSaldo.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Properties.Resources.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.Registrasi.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.RiwayatTransaksi.resources
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.GenerateResource.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfoInputs.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.AssemblyInfo.cs
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\refint\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.exe
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.deps.json
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.runtimeconfig.json
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\UITokoVoucher.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.pdb
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\bin\Debug\net8.0-windows\TransaksiLibrary.dll.config
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVo.22B39776.Up2Date
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\UITokoVoucher.genruntimeconfig.cache
+D:\Tugas Kuliah\Coding an\VisualStudio\Tubes Konstruksi\UITokoVoucherV12\UITokoVoucher\UITokoVoucher\obj\Debug\net8.0-windows\ref\UITokoVoucher.dll

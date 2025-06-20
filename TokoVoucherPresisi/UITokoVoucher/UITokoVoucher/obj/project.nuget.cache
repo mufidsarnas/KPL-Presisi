@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MqqfCCtle6M=",
+  "success": true,
+  "projectFilePath": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\UITokoVoucher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

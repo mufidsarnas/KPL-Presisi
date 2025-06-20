@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|d:\\tugas kuliah\\coding an\\visualstudio\\tubes konstruksi\\uitokovoucherv12\\uitokovoucher\\uitokovoucher\\registrasi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|solutionrelative:uitokovoucher\\registrasi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|d:\\tugas kuliah\\coding an\\visualstudio\\tubes konstruksi\\uitokovoucherv12\\uitokovoucher\\uitokovoucher\\menusaldo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|solutionrelative:uitokovoucher\\menusaldo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|d:\\tugas kuliah\\coding an\\visualstudio\\tubes konstruksi\\uitokovoucherv12\\uitokovoucher\\uitokovoucher\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|solutionrelative:uitokovoucher\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|d:\\tugas kuliah\\coding an\\visualstudio\\tubes konstruksi\\uitokovoucherv12\\uitokovoucher\\uitokovoucher\\adminallvoucher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|solutionrelative:uitokovoucher\\adminallvoucher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|d:\\tugas kuliah\\coding an\\visualstudio\\tubes konstruksi\\uitokovoucherv12\\uitokovoucher\\uitokovoucher\\riwayattransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|solutionrelative:uitokovoucher\\riwayattransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|d:\\tugas kuliah\\coding an\\visualstudio\\tubes konstruksi\\uitokovoucherv12\\uitokovoucher\\uitokovoucher\\menusaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E7A7AAC-1CD1-4EA0-B78B-9C130CDF8ADE}|UITokoVoucher\\UITokoVoucher.csproj|solutionrelative:uitokovoucher\\menusaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registrasi.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\Registrasi.Designer.cs",
+              "RelativeDocumentMoniker": "UITokoVoucher\\Registrasi.Designer.cs",
+              "ToolTip": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\Registrasi.Designer.cs",
+              "RelativeToolTip": "UITokoVoucher\\Registrasi.Designer.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAuwM4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:47:20.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuSaldo.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\MenuSaldo.Designer.cs",
+              "RelativeDocumentMoniker": "UITokoVoucher\\MenuSaldo.Designer.cs",
+              "ToolTip": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\MenuSaldo.Designer.cs",
+              "RelativeToolTip": "UITokoVoucher\\MenuSaldo.Designer.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAuwCABAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:47:17.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "UITokoVoucher\\FormLogin.Designer.cs",
+              "ToolTip": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\FormLogin.Designer.cs",
+              "RelativeToolTip": "UITokoVoucher\\FormLogin.Designer.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAuwMoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:47:12.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminAllVoucher.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\AdminAllVoucher.Designer.cs",
+              "RelativeDocumentMoniker": "UITokoVoucher\\AdminAllVoucher.Designer.cs",
+              "ToolTip": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\AdminAllVoucher.Designer.cs",
+              "RelativeToolTip": "UITokoVoucher\\AdminAllVoucher.Designer.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAuwEUBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:47:06.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuSaldo.cs [Design]",
+              "DocumentMoniker": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\MenuSaldo.cs",
+              "RelativeDocumentMoniker": "UITokoVoucher\\MenuSaldo.cs",
+              "ToolTip": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\MenuSaldo.cs [Design]",
+              "RelativeToolTip": "UITokoVoucher\\MenuSaldo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:46:29.063Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RiwayatTransaksi.cs",
+              "DocumentMoniker": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\RiwayatTransaksi.cs",
+              "RelativeDocumentMoniker": "UITokoVoucher\\RiwayatTransaksi.cs",
+              "ToolTip": "D:\\Tugas Kuliah\\Coding an\\VisualStudio\\Tubes Konstruksi\\UITokoVoucherV12\\UITokoVoucher\\UITokoVoucher\\RiwayatTransaksi.cs",
+              "RelativeToolTip": "UITokoVoucher\\RiwayatTransaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:45:51.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

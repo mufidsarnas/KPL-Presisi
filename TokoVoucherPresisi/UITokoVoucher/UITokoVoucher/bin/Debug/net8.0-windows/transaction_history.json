@@ -1,0 +1,93 @@
+[
+  {
+    "Username": "a",
+    "VoucherName": "diamond ml",
+    "Quantity": 1,
+    "TotalPrice": 20000,
+    "TransactionDate": "2025-06-15T21:27:56.4020894+07:00"
+  },
+  {
+    "Username": "b",
+    "VoucherName": "diamond mlbb",
+    "Quantity": 1,
+    "TotalPrice": 30000,
+    "TransactionDate": "2025-06-15T21:27:56.4020894+07:00"
+  },
+  {
+    "Username": "a",
+    "VoucherName": "diamond ml 100",
+    "Quantity": 1,
+    "TotalPrice": 20000,
+    "TransactionDate": "2025-06-16T23:43:37.7749451+07:00"
+  },
+  {
+    "Username": "a",
+    "VoucherName": "diamond ml 100",
+    "Quantity": 1,
+    "TotalPrice": 20000,
+    "TransactionDate": "2025-06-16T23:47:21.3085321+07:00"
+  },
+  {
+    "Username": "a",
+    "VoucherName": "diamond ml 100",
+    "Quantity": 1,
+    "TotalPrice": 20000,
+    "TransactionDate": "2025-06-16T23:49:58.8229657+07:00"
+  },
+  {
+    "Username": "a",
+    "VoucherName": "diamond ml 100",
+    "Quantity": 5,
+    "TotalPrice": 100000,
+    "TransactionDate": "2025-06-16T23:51:48.9813409+07:00"
+  },
+  {
+    "Username": "a",
+    "VoucherName": "diamond ml 100",
+    "Quantity": 2,
+    "TotalPrice": 40000,
+    "TransactionDate": "2025-06-16T23:56:58.1871941+07:00"
+  },
+  {
+    "Username": "mufid",
+    "VoucherName": "Fracture Case",
+    "Quantity": 1,
+    "TotalPrice": 20000,
+    "TransactionDate": "2025-06-17T16:10:10.9824777+07:00"
+  },
+  {
+    "Username": "1",
+    "VoucherName": "Diamond 250",
+    "Quantity": 3,
+    "TotalPrice": 135000,
+    "TransactionDate": "2025-06-17T16:41:15.7385913+07:00"
+  },
+  {
+    "Username": "a",
+    "VoucherName": "Diamond 250",
+    "Quantity": 1,
+    "TotalPrice": 45000,
+    "TransactionDate": "2025-06-17T17:46:43.6067179+07:00"
+  },
+  {
+    "Username": "1",
+    "VoucherName": "Fracture Case",
+    "Quantity": 12,
+    "TotalPrice": 240000,
+    "TransactionDate": "2025-06-18T15:39:51.6371901+07:00"
+  },
+  {
+    "Username": "syauqi",
+    "VoucherName": "Fracture Case",
+    "Quantity": 12,
+    "TotalPrice": 240000,
+    "TransactionDate": "2025-06-18T16:18:03.4374152+07:00"
+  },
+  {
+    "Username": "1",
+    "VoucherName": "Fracture Case",
+    "Quantity": 1,
+    "TotalPrice": 20000,
+    "TransactionDate": "2025-06-19T20:16:43.5393695+07:00"
+  }
+]
